@@ -1,7 +1,7 @@
 
 ## 👋 Hello, World! I'm Sarham
 
-I'm a second-year Computer Science student with a passion for web development and e-commerce solutions. Currently working on the TrendSwap project - a fashion retail platform where I've been diving deep into PHP, MySQL, and web development.
+I'm a Final-year Computer Science student with a passion for web development and e-commerce solutions. Currently working on the TrendSwap project - a fashion retail platform where I've been diving deep into PHP, MySQL, and web development.
 
 ## 💻 Tech Stack
 
